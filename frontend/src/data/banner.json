@@ -1,0 +1,122 @@
+{
+    "home": [
+        {
+            "id": 1,
+            "title": "Ladies Night",
+            "subtitle": "Thursday 6:00 PM to 11:30 PM",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+            "calories": 480,
+            "mozarella": 120,
+            "offerreq": "Min Spend AED 80",
+            "price": 50.0,
+            "discount":"",
+            "img": "assets/1.png",
+            "category": "AED 65 with shisha",
+            "offer": true,
+            "url":"/blogsingle/lunch-offer-at-owl-cafe-restaurant"
+        },
+        {
+            "id": 2,
+            "title": "Lunch Offer",
+            "subtitle": "Daily 12:00 PM to 4:00 PM",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+            "calories": 800,
+            "offerreq": "Meal + Beverage AED 45",
+            "offerreq2": "Shisha Combo AED 59",
+            "mozarella": 300,
+            "price": 65.0,
+            "discount":"",
+            "img": "assets/Lunch Offer.png",
+            "category": "AED 80 with shisha",
+            "offer": true
+                },
+        {
+            "id": 3,
+            "title": "Buy 1 Get 1 Shisha",
+            "subtitle": "Except Thursday 8:00 PM to 03:00 AM",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+            "calories": 230,
+            "mozarella": 100,
+            "offerreq": "AED 90",
+            "price": 45.0,
+            "discount":"",
+            "img": "assets/BUY1GET!.png",
+            "category": "",
+            "offer": true
+        },
+        {
+            "id": 4,
+            "title": "Breakfast Offer",
+            "subtitle": "Daily 10:00 am to Noon",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+            "calories": 230,
+            "mozarella": 100,
+            "offerreq": "Indian and Arabic Platter",
+            "price": 45.0,
+            "discount":"",
+            "img": "assets/Breakfast Offer.png",
+            "category": "",
+            "offer": true
+        }
+    ],
+    "hometwo":[
+        {
+            "id":1,
+            "bg":"assets/img/banner/1.jpg",
+            "img":"assets/img/veg/12.png",
+            "title":"Italian Pizza Never Got Any Better",
+            "subtitle":"It is the cheese that lures us into eating",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id":2,
+            "bg":"assets/img/banner/2.jpg",
+            "img":"assets/img/veg/12.png",
+            "title":"Celebrating 100 Years of Cheesy Pizza",
+            "subtitle":"Join our grand opening tonight for free pizza",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+    ],
+    "homethree": [
+        {
+            "id": 1,
+            "title": "Pepperoni",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "calories": 480,
+            "mozarella": 120,
+            "price": 10.99,
+            "rating":4,
+            "img": "assets/img/banner/3.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Italian",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "calories": 800,
+            "mozarella": 300,
+            "price": 17.99,
+            "rating":3,
+            "img": "assets/img/banner/4.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Vegetarian",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "calories": 230,
+            "mozarella": 100,
+            "price": 9.99,
+            "rating":5,
+            "img": "assets/img/banner/5.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Swiss",
+            "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "calories": 650,
+            "mozarella": 200,
+            "price": 12.99,
+            "rating":4,
+            "img": "assets/img/banner/6.jpg"
+        }
+    ]
+}
